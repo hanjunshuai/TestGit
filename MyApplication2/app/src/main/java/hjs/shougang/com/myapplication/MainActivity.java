@@ -8,6 +8,7 @@ import android.widget.ProgressBar;
 import android.widget.SeekBar;
 
 public class MainActivity extends AppCompatActivity {
+
     private ProgressBar pb_loading, pb_loading2;
     private SeekBar sb_loading;
 
@@ -40,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     };
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
