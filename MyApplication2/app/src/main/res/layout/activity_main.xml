@@ -34,4 +34,5 @@
         android:layout_height="wrap_content"
         android:text="1. 滑动下面的滑杆后, 上面的进度条会同步\n2. 滑动到最大值时, 最上面的进度条消失
 " />
+
 </LinearLayout>
